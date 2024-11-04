@@ -70,6 +70,6 @@ void liscanoSaveToFile(){
         file<<"Estado: Reprobado"<<endl;
     }
     file.close();
-    cout<<"Datos guardados en LiscanoNotas.txt"<<endl;
+    cout<<"Datos guardados en liscanoNotas.txt"<<endl;
 }
 
