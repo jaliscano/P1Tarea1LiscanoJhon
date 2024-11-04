@@ -1,0 +1,6 @@
+Notas ingresadas:
+Nota 1: 15.2
+Nota 2: 12.6
+Nota 3: 16.5
+Promedio: 14.7667
+Estado: Aprobado
