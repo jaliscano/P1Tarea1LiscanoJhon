@@ -53,7 +53,7 @@ void liscanoGradesAndAverage(){
 }
 
 void liscanoSaveToFile(){
-    ofstream file("notas.txt");
+    ofstream file("liscanoNotas.txt");
     if(!file){
         cout<<"Error al abrir el archivo"<<endl;
         return;
